@@ -66,7 +66,7 @@ public class SplashView extends View {
         mPaintCircle.setColor(Color.WHITE);
 
         matrix = new Matrix();
-        icon = BitmapFactory.decodeResource(getResources(), R.mipmap.ic_launcher);
+        icon = BitmapFactory.decodeResource(getResources(), R.mipmap.ic_status_bar_fusion_logo);
 
         new Thread(new Runnable() {
             @Override
