@@ -86,7 +86,7 @@ import java.util.Set;
  */
 public class Utils implements Constants {
 
-    public static boolean DARKTHEME = false;
+    public static boolean DARKTHEME = true;
 
     // MD5 code from
     // https://github.com/CyanogenMod/android_packages_apps_CMUpdater/blob/cm-12.1/src/com/cyanogenmod/updater/utils/MD5.java
