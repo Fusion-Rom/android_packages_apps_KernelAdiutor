@@ -29,7 +29,7 @@ public interface Constants {
     String TAG = "Kernel Adiutor";
     String VERSION_NAME = "prebuilt";
     String PREF_NAME = "prefs";
-    String GAMMA_URL = "https://raw.githubusercontent.com/Grarak/KernelAdiutor/master/gamma_profiles.json";
+    String GAMMA_URL = "http://fusion-rom.net/json/gamma_profiles.json";
     List<DAdapter.DView> ITEMS = new ArrayList<>();
 
     // Kernel Informations
