@@ -76,7 +76,6 @@
     <string name="initd">Init.d</string>
     <string name="settings">Settings</string>
     <string name="faq">FAQ</string>
-    <string name="about_us">About us</string>
 
     <!-- Frequency Table -->
     <string name="big" translatable="false">Big</string>
@@ -637,31 +636,6 @@
     <string name="feature_function_summary">If you don\'t know what this control does, then simply don\'t touch it. Please do a proper research before playing with your expensive hardware.</string>
     <string name="add_new_features">Could you add feature x and y?</string>
     <string name="add_new_features_summary">That\'s hard to say. I try to add all features, but it\'s hard to make this app universal for all devices. I only have a Samsung Galaxy S4 (I9500) and an HTC Desire 816, so don\'t blame me if features don\'t get merged immediately.</string>
-
-    <!-- About us -->
-    <string name="license">License</string>
-    <string name="app_license">Kernel Adiutor is licensed under the Apache License, Version 2.0, and uses following libraries</string>
-    <string name="appcompat_v7">v7 Appcompat Library</string>
-    <string name="cardview_v7">v7 Cardview Library</string>
-    <string name="recyclerview_v7">v7 Recyclerview Library</string>
-    <string name="google">Google</string>
-    <string name="fab">FloatingActionButton</string>
-    <string name="jerzy">Jerzy Chałupski</string>
-    <string name="dashclock">Dashclock</string>
-    <string name="nurik">Roman Nurik</string>
-    <string name="nineoldandroids">NineOldAndroids</string>
-    <string name="wharton">Jake Wharton</string>
-    <string name="picasso">Picasso</string>
-    <string name="square">Square Inc.</string>
-    <string name="materialtabs">MaterialTabs</string>
-    <string name="frenn">Karim Frenn</string>
-    <string name="open_source">Open source</string>
-    <string name="open_source_summary">This application is open source. Check it out on my Github.</string>
-    <string name="feature_request">Feature request</string>
-    <string name="feature_request_summary">Do you want more features? Open a new issue on Github and tell me your idea.</string>
-    <string name="google_plus_summary">Join our community.</string>
-    <string name="translation">Translation</string>
-    <string name="translation_summary">Help me to translate this app!</string>
 
     <!-- Zanezam governor profile -->
     <string name="zanezam_profile_description">This is the tunable profile for the ZaneZam governor</string>
