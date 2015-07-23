@@ -10,7 +10,7 @@
         android:orientation="vertical"
         android:padding="16dp">
 
-        <com.fusion.kerneladiutor.elements.CircleChart
+        <com.grarak.kerneladiutor.elements.CircleChart
             android:id="@+id/circle_progress"
             android:layout_width="200dp"
             android:layout_height="200dp"
