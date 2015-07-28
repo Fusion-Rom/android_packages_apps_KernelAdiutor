@@ -27,7 +27,8 @@ import java.util.List;
 public interface Constants {
 
     String TAG = "Kernel Adiutor";
-    String VERSION_NAME = "prebuilt";
+    String VERSION_NAME = BuildConfig.VERSION_NAME;
+    int VERSION_CODE = BuildConfig.VERSION_CODE;
     String PREF_NAME = "prefs";
     String GAMMA_URL = "http://fusion-rom.net/json/gamma_profiles.json";
     List<DAdapter.DView> ITEMS = new ArrayList<>();
